@@ -3,7 +3,7 @@
 SkillServe is a web-based platform designed to connect customers with skilled workers like Plumber, Electrician, Carpenter, etc. for various services.  
 The platform allows users to search for services, workers to register their skills, and both parties to interact through a simple dashboard interface.
 
-## 🚀 Features
+##  Features
 
 - User authentication system
 - Customer dashboard
@@ -13,16 +13,16 @@ The platform allows users to search for services, workers to register their skil
 - Simple and responsive UI
 - Multi-language support (via translator module)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML
 - CSS
 - JavaScript
 - Browser Local Storage
 
-## 📂 Project Structure
+##  Project Structure
 
-Skill-Serve
+```Skill-Serve
 │
 ├── index.html
 ├── customer-dashboard.html
@@ -35,9 +35,9 @@ Skill-Serve
 │
 ├── styles.css
 ├── package.json
-└── package-lock.json
+└── package-lock.json```
 
-## 📌 How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository
 - git clone https://github.com/CharanPN/Skill-Serve.git
@@ -47,7 +47,7 @@ Skill-Serve
 
 3. Open `index.html` in your browser.
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - Backend integration
 - Database support
@@ -55,6 +55,6 @@ Skill-Serve
 - Payment integration
 - Improved UI/UX
 
-## 📜 License
+##  License
 
 This project is for educational and learning purposes.
