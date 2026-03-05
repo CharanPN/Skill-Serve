@@ -18,7 +18,7 @@ The platform allows users to search for services, workers to register their skil
 - HTML
 - CSS
 - JavaScript
-- Node.js (project configuration)
+- Browser Local Storage
 
 ## 📂 Project Structure
 
