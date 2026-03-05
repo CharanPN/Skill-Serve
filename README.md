@@ -22,7 +22,8 @@ The platform allows users to search for services, workers to register their skil
 
 ##  Project Structure
 
-```Skill-Serve
+```
+Skill-Serve
 │
 ├── index.html
 ├── customer-dashboard.html
@@ -35,7 +36,8 @@ The platform allows users to search for services, workers to register their skil
 │
 ├── styles.css
 ├── package.json
-└── package-lock.json```
+└── package-lock.json
+```
 
 ##  How to Run the Project
 
